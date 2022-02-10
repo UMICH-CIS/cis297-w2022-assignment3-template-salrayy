@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankApplication.Accountt">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAQAQAIAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accountt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankApplication.savingsaccountt">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>savingsaccountt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankApplication.checkingaccountt">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAgAAAEAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>checkingaccountt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
